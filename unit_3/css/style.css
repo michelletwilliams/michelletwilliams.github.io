@@ -1,17 +1,20 @@
 body {
 	text-align: right;
-	background: url("/images/peonies_background.jpg"); 
-	background-color: #000;
+	background-image: ("/images/peonies_background.jpg");
+	background-color: GhostWhite; 
 	font-family: Helvetica;
 }
 
 h1, p {
+	text-align: right;
 	color: LightCoral;
+	font-family: Helvetica;
 	size: 26px;
 }
 
 #slogan {
  color: LightCoral;
  background-color: GhostWhite;
+ font-family: Helvetica;
  font-size: 24px;
 }

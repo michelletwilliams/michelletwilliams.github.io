@@ -8,18 +8,18 @@
 }
 #nav {
 	font-family: Helvetica;
-	float: right;
+	text-align: right;
 }
 #slogan {
- color: LightCoral;
  font-size: 20px;
- font-family: 'Playfair Display', serif;
+ font-family: Helvetica;
 }
 div {
 	display: block;
 	font-family: 'Playfair Display', serif;
 }
 h1, h2, h3 {
+	color: LightCoral;
 	text-align: left;
 	background-color: White;
 	font-family: 'Playfair Display', serif;

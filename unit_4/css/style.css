@@ -1,0 +1,13 @@
+body {
+	text-align: left;
+	background-color: GhostWhite; 
+	font-family: Helvetica;
+}
+h1, p {
+	text-align: right;
+	color: LightCoral;
+}
+#slogan {
+ color: LightCoral;
+ font-size: 24px;
+}

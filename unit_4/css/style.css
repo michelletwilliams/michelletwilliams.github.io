@@ -22,6 +22,6 @@ h1, h2, h3 {
 	background-color: White;
 	font-family: 'Playfair Display', serif;
 	}
-body, p { 
+body, p, ul { 
 	font-family: Helvetica;
 }

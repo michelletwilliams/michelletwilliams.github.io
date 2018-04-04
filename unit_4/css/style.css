@@ -14,7 +14,7 @@
  font-family: Helvetica;
 }
 div {
-	display: block;
+	display: inline;
 	font-family: 'Playfair Display', serif;
 }
 h1, h2, h3 {

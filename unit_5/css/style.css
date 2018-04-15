@@ -14,6 +14,11 @@ nav {
 ul {
 	padding-left:1.25em;
 }
+.logo {
+	font-family: Helvetica, Arial, sans-serif;
+	test-align: left;
+	font-size: 24px;
+}
 #slogan {
  font-size: 20px;
 }

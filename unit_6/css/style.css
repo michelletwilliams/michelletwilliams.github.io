@@ -10,9 +10,24 @@ h1, h2, h3 {
 }
 nav {
 	text-align: right;
+	padding: 20px;
 }
 ul {
 	padding-left:1.25em;
+}
+header {
+	padding: 20px;
+}
+footer {
+	padding: 20px;
+}
+div {
+	padding: 20px;
+}
+.logo {
+	font-family: Helvetica, Arial, sans-serif;
+	test-align: left;
+	font-size: 24px;
 }
 #slogan {
  font-size: 20px;

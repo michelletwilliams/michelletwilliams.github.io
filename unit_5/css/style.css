@@ -10,26 +10,18 @@ h1, h2, h3 {
 }
 nav {
 	text-align: right;
-	background-color: #E8C66A;
-	border: 1px black solid;
 	padding: 20px;
 }
 ul {
 	padding-left:1.25em;
 }
 header {
-	background-color: #FFED74;
-	border: 1px black solid;
 	padding: 20px;
 }
 footer {
-	background-color: #FF957E;
-	border: 1px black solid;
 	padding: 20px;
 }
 div {
-	background-color: #FFE2B8;
-	border: 1px black solid;
 	padding: 20px;
 }
 .logo {

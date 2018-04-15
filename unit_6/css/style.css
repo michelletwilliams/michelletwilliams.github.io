@@ -26,8 +26,11 @@ div {
 }
 .logo {
 	font-family: Helvetica, Arial, sans-serif;
-	test-align: left;
+	text-align: left;
 	font-size: 24px;
+}
+#profilebox {
+	padding: 20px;
 }
 #slogan {
  font-size: 20px;
@@ -37,5 +40,6 @@ div {
 	background-size:cover;
 	background-repeat:no-repeat;
 	height: 90vh;
+	padding: 20px;
 }
 

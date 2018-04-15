@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+* { margin:0; padding:0; box-sizing:border-box; }
+body { 
+	font-family: Helvetica, Arial, sans-serif;
+}
+h1, h2, h3 {
+	color: LightCoral;
+	text-align: left;
+	font-family: 'Playfair Display', serif;
+}
+nav {
+	text-align: right;
+}
+ul {
+	padding-left:1.25em;
+}
+#slogan {
+ font-size: 20px;
+}
+#intro {
+	background:url(../images/peonies_background.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+}
+

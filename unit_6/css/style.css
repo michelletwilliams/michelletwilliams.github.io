@@ -30,6 +30,10 @@ div {
 	font-size: 24px;
 }
 #profilebox {
+	display: box;
+	box-orient: horizontal;
+	height:150px;
+	width: 600px;
 	padding: 20px;
 }
 #slogan {

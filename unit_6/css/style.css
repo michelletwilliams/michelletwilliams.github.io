@@ -31,8 +31,7 @@ div {
 }
 #profilebox {
 	display: box;
-	box-orient: horizontal;
-	height:150px;
+	height:372px;
 	width: 600px;
 	padding: 20px;
 }

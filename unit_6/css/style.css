@@ -57,4 +57,5 @@ div {
 	padding: 2em
 }
 #form {
+	clear: both;
 }

@@ -29,9 +29,16 @@ div {
 	font-family: Helvetica, Arial, sans-serif;
 	float: left;
 	font-size: 24px;
+	width: 50%;
 }
 #profilebox {
-	display: box;
+	display: block;
+	width: 50%;
+	float: left;
+	padding: 2em;
+}
+#profilebox img {
+	display: block;
 	width: 50%;
 	padding: 2em;
 }

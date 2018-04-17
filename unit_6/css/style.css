@@ -56,4 +56,7 @@ div {
 	height: 90vh;
 	padding: 2em
 }
-
+#form {
+	display: block;
+	width: 50%;
+}

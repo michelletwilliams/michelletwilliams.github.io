@@ -35,13 +35,12 @@ div {
 	padding: 2em;
 }
 #profilebox {
-	display: block;
-	width: 50%;
 	float: left;
+	width: 50%;
 	padding: 2em;
 }
 #profilebox img {
-	display: block;
+	float: left;
 	width: 50%;
 	padding: 2em;
 }
@@ -58,5 +57,4 @@ div {
 	padding: 2em
 }
 #form {
-	width: 50%;
 }

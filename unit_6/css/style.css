@@ -9,40 +9,40 @@ h1, h2, h3 {
 	font-family: 'Playfair Display', serif;
 }
 nav {
-	text-align: right;
-	padding: 20px;
+	float: right;
+	padding: 2em, 1em;
+	color: #FFF
 }
 ul {
 	padding-left:1.25em;
 }
 header {
-	padding: 20px;
+	padding: 2em;
 }
 footer {
-	padding: 20px;
+	padding: 2em;
 }
 div {
-	padding: 20px;
+	padding: 2em;
 }
 .logo {
 	font-family: Helvetica, Arial, sans-serif;
-	text-align: left;
+	float: left;
 	font-size: 24px;
 }
 #profilebox {
 	display: box;
-	height:372px;
-	width: 600px;
-	padding: 20px;
+	width: 50%;
+	padding: 2em;
 }
 #slogan {
- font-size: 20px;
+ font-size: 24px;
 }
 #intro {
 	background:url(../images/peonies_background.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
 	height: 90vh;
-	padding: 20px;
+	padding: 2em
 }
 

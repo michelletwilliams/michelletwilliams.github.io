@@ -13,6 +13,7 @@ h1, h2, h3 {
 nav {
 	display: block;
 	float: right;
+	width: 50%;
 	padding: 2em, 1em;
 	color: #FFF
 }
@@ -21,6 +22,7 @@ ul {
 }
 header {
 	display: block;
+	width: 50%;
 	padding: 2em;
 	float: left;
 }
@@ -34,12 +36,12 @@ div {
 	font-family: Helvetica, Arial, sans-serif;
 	display: block;
 	float: left;
+	width: 50%;
 	font-size: 24px;
 	padding: 2em;
 }
 #profilebox {
 	float: left;
-	width: 50%;
 	padding: 2em;
 }
 #profilebox img {

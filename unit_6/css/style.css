@@ -11,6 +11,7 @@ h1, h2, h3 {
 	padding: 2em;
 }
 nav {
+	display: block;
 	float: right;
 	padding: 2em, 1em;
 	color: #FFF
@@ -19,8 +20,9 @@ ul {
 	padding-left:1.25em;
 }
 header {
-	display: inline;
+	display: block;
 	padding: 2em;
+	float: left;
 }
 footer {
 	padding: 2em;
@@ -30,6 +32,7 @@ div {
 }
 .logo {
 	font-family: Helvetica, Arial, sans-serif;
+	display: block;
 	float: left;
 	font-size: 24px;
 	padding: 2em;

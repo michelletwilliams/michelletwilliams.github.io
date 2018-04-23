@@ -70,6 +70,36 @@ div {
 	clear: both;
 	text-align: left;
 }
+
+#productbox1 {
+	background:url(../images/floral_cake.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	width: 400px;
+	height: 344px;
+	margin: 0;
+	padding: 0;
+}
+
+#productbox2 {
+	background:url(../images/bouquet_flower_design.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
+	margin: 0;
+	padding: 0;
+}
+
+#productbox3 {
+	background:url(../images/party_planning.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
+	margin: 0;
+	padding: 0;
+}
 .clearfix:after {
 	visibility: hidden;
 	display: block;

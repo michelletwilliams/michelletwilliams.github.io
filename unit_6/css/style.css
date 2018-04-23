@@ -14,7 +14,7 @@ h1, h2, h3 {
 nav {
 	display: block;
 	float: right;
-	width: 50%;
+	font-size: 1.8em;
 	padding: 1.8em;
 	color: #FFF
 }

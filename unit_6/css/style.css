@@ -16,6 +16,7 @@ nav {
 	float: right;
 	font-size: 1.8em;
 	padding: 1.8em;
+	width: 400px;
 	color: #FFF
 }
 ul {
@@ -33,12 +34,13 @@ footer {
 }
 div {
 	padding: 2em;
+	width: 400px;
 }
 .logo {
 	font-family: Helvetica, Arial, sans-serif;
 	display: block;
 	float: left;
-	width: 50%;
+	width: 400px;
 	font-size: 24px;
 	padding: 2em;
 	text-align: left;

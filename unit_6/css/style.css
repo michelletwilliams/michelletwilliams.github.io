@@ -85,7 +85,7 @@ div {
 	width: 400px;
 	height: 344px;
 	margin: 0;
-	padding: 0;
+	padding: 1em;
 }
 #productbox2 {
 	background:url(../images/bouquet_flower_design.jpg);
@@ -94,7 +94,7 @@ div {
 	width: 400px;
 	height: 344px;
 	margin: 0;
-	padding: 0;
+	padding: 1em;
 }
 #productbox3 {
 	background:url(../images/party_planning.jpg);
@@ -103,7 +103,7 @@ div {
 	width: 400px;
 	height: 344px;
 	margin: 0;
-	padding: 0;
+	padding: 1em;
 }
 .clearfix:after {
 	visibility: hidden;

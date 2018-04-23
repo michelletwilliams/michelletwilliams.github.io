@@ -84,6 +84,7 @@ div {
 #form {
 	clear: both;
 	text-align: left;
+	padding: 1em;
 }
 #productbox1 {
 	display: block;

@@ -4,6 +4,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	padding: 1em;
 	text-align: left;
+	clear: both;
 }
 h1, {
 	color: LightCoral;
@@ -11,6 +12,7 @@ h1, {
 	font-size: 2em;
 	font-family: 'Playfair Display', serif;
 	padding: 1em;
+	clear: both;
 }
 h2, h3 {
 	color: LightCoral;
@@ -18,6 +20,7 @@ h2, h3 {
 	font-family: 'Playfair Display', serif;
 	font-size: 1.5em;
 	padding: 1em;
+	clear: both;
 }
 nav {
 	display: block;
@@ -26,9 +29,7 @@ nav {
 	padding: 1.8em;
 	width: 400px;
 	color: #FFF
-}
-ul {
-	padding-left:1.25em;
+	clear: right;
 }
 header {
 	display: block;
@@ -39,9 +40,11 @@ header {
 footer {
 	padding: 2em;
 	text-align: left;
+	clear: both;
 }
 div {
 	padding: 2em;
+	clear: both;
 }
 .logo {
 	font-family: Helvetica, Arial, sans-serif;
@@ -51,6 +54,7 @@ div {
 	font-size: 24px;
 	padding: 2em;
 	text-align: left;
+	clear: left;
 }
 #profilebox {
 	float: left;
@@ -68,6 +72,7 @@ div {
 	font-size: 24px;
 	padding: 2em;
 	text-align: left;
+	clear: both;
 }
 #intro {
 	background:url(../images/peonies_background.jpg);
@@ -109,6 +114,7 @@ div {
 	height: 344px;
 	margin: 0;
 	padding: 1em;
+	clear: right;
 }
 .clearfix:after {
 	visibility: hidden;

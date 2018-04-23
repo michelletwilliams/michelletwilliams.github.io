@@ -41,10 +41,12 @@ div {
 	width: 50%;
 	font-size: 24px;
 	padding: 2em;
+	text-align: left;
 }
 #profilebox {
 	float: left;
 	padding: 2em;
+	text-align: left;
 }
 #profilebox img {
 	float: left;
@@ -54,6 +56,7 @@ div {
 #slogan {
 	font-size: 24px;
 	padding: 2em;
+	text-align: left;
 }
 #intro {
 	background:url(../images/peonies_background.jpg);
@@ -64,6 +67,7 @@ div {
 }
 #form {
 	clear: both;
+	text-align: left;
 }
 .clearfix:after {
 	visibility: hidden;

@@ -58,9 +58,11 @@ div {
 	text-align: left;
 }
 #profilebox img {
-	float: left;
-	width: 50%;
-	padding: 2em;
+	background:url(../images/bouquet_flower_design.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
 }
 #slogan {
 	font-size: 24px;

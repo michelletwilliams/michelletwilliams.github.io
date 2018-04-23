@@ -95,6 +95,7 @@ div {
 	height: 344px;
 	margin: 0;
 	padding: 1em;
+	clear: left;
 }
 #productbox2 {
 	display: block;

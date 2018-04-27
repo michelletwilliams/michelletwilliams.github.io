@@ -13,7 +13,7 @@ h2, h3 {
 	color: LightCoral;
 	text-align: left;
 	font-family: 'Playfair Display', serif;
-	font-size: 1.5em;
+	font-size: 1.25em;
 }
 nav {
 	display: block;
@@ -30,8 +30,6 @@ footer {
 	font-family: Helvetica, Arial, sans-serif;
 	display: block;
 	float: left;
-	width: 400px;
-	height: 120px;
 	font-size: 24px;
 	padding: 1em;
 	text-align: left;
@@ -47,8 +45,7 @@ footer {
 	background:url(../images/nikki_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 400px;
-	height: 344px;
+	width: 25%;
 	padding: 10px;
 }
 #profileboximg2 {
@@ -57,8 +54,7 @@ footer {
 	background:url(../images/michelle_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 400px;
-	height: 344px;
+	width: 25%;
 	padding: 10px;
 }
 #slogan {
@@ -90,8 +86,7 @@ footer {
 	background:url(../images/floral_cake.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
-	width: 400px;
-	height: 344px;
+	width: 32.33%;
 	margin: 10px;
 	padding: 1em;
 }
@@ -101,8 +96,7 @@ footer {
 	background:url(../images/bouquet_flower_design.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 400px;
-	height: 344px;
+	width: 32.33%;
 	margin: 10px;
 	padding: 1em;
 }
@@ -112,8 +106,7 @@ footer {
 	background:url(../images/party_planning.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 400px;
-	height: 344px;
+	width: 32.33%;
 	margin: 10px;
 	padding: 1em;
 }

@@ -109,7 +109,7 @@ div {
 	background-repeat:no-repeat;
 	width: 400px;
 	height: 344px;
-	margin: 0;
+	margin: 10px;
 	padding: 1em;
 	clear: left;
 }
@@ -121,7 +121,7 @@ div {
 	background-size:cover;
 	width: 400px;
 	height: 344px;
-	margin: 0;
+	margin: 10px;
 	padding: 1em;
 }
 #productbox3 {
@@ -132,7 +132,7 @@ div {
 	background-size:cover;
 	width: 400px;
 	height: 344px;
-	margin: 0;
+	margin: 10px;
 	padding: 1em;
 	clear: right;
 }

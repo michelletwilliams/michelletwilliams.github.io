@@ -56,11 +56,14 @@ div {
 	clear: left;
 }
 #profilebox {
+	display: block;
 	float: left;
 	padding: 2em;
 	text-align: left;
 }
 #profileboximg1 {
+	display: block;
+	float: left;
 	background:url(../images/nikki_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
@@ -69,6 +72,8 @@ div {
 	padding: 10px;
 }
 #profileboximg2 {
+	display: block;
+	float: left;
 	background:url(../images/michelle_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;

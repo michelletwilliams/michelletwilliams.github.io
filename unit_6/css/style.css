@@ -27,19 +27,11 @@ nav {
 	float: right;
 	font-size: 1.5em;
 	padding: 1em;
-	width: 400px;
-	height: 120px;
 	color: #FFF
-	clear: right;
 }
 footer {
 	padding: 2em;
 	text-align: left;
-	clear: both;
-}
-div {
-	padding: 2em;
-	clear: both;
 }
 .logo {
 	font-family: Helvetica, Arial, sans-serif;
@@ -50,15 +42,11 @@ div {
 	font-size: 24px;
 	padding: 1em;
 	text-align: left;
-	clear: left;
 }
 #profilebox {
 	display: block;
 	float: left;
-	width: 400px;
-	height: 300px;
 	padding: 2em;
-	text-align: left;
 }
 #profileboximg1 {
 	display: block;
@@ -112,7 +100,6 @@ div {
 	height: 344px;
 	margin: 10px;
 	padding: 1em;
-	clear: left;
 }
 #productbox2 {
 	display: block;
@@ -135,7 +122,6 @@ div {
 	height: 344px;
 	margin: 10px;
 	padding: 1em;
-	clear: right;
 }
 .clearfix:after {
 	visibility: hidden;

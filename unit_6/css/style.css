@@ -60,14 +60,14 @@ div {
 	padding: 2em;
 	text-align: left;
 }
-#profilebox img1 {
+#profileboximg1 {
 	background:url(../images/nikki_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
 	width: 400px;
 	height: 344px;
 }
-#profilebox img2 {
+#profileboximg2 {
 	background:url(../images/michelle_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;

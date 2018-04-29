@@ -2,18 +2,21 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body { 
 	font-family: Helvetica, Arial, sans-serif;
+	padding: 1em;
 }
 h1, {
 	color: LightCoral;
 	text-align: left;
 	font-size: 2em;
 	font-family: 'Playfair Display', serif;
+	padding: 1em;
 }
 h2, h3 {
 	color: LightCoral;
 	text-align: left;
 	font-family: 'Playfair Display', serif;
 	font-size: 1.25em;
+	padding: 1em;
 }
 nav {
 	display: block;
@@ -62,6 +65,7 @@ footer {
 	display: block;
 	float: left;
 	font-size: 24px;
+	padding: 1em;
 }
 #intro {
 	background:url(../images/peonies_background.jpg);
@@ -74,6 +78,7 @@ footer {
 #form {
 	display: block;
 	float: left;
+	padding: 1em;
 }
 #productbox1 {
 	display: block;

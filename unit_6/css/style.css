@@ -74,6 +74,7 @@ footer {
 	max-height: 600px; 
 	margin: 25%
 	padding: 1em
+	text-align: center; 
 }
 #form {
 	display: block;

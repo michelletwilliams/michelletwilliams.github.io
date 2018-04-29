@@ -45,7 +45,7 @@ footer {
 	background:url(../images/nikki_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 25%;
+	width: 400px;
 	padding: 10px;
 }
 #profileboximg2 {
@@ -54,7 +54,7 @@ footer {
 	background:url(../images/michelle_image.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 25%;
+	width: 400px;
 	padding: 10px;
 }
 #slogan {
@@ -86,7 +86,7 @@ footer {
 	background:url(../images/floral_cake.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
-	width: 32.33%;
+	width: 400px;
 	margin: 10px;
 	padding: 1em;
 }
@@ -96,7 +96,7 @@ footer {
 	background:url(../images/bouquet_flower_design.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 32.33%;
+	width: 400px;
 	margin: 10px;
 	padding: 1em;
 }
@@ -106,7 +106,7 @@ footer {
 	background:url(../images/party_planning.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 32.33%;
+	width: 400px;
 	margin: 10px;
 	padding: 1em;
 }

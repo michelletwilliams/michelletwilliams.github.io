@@ -20,10 +20,9 @@ nav {
 	float: right;
 	font-size: 1.5em;
 	padding: 1.25em;
-	color: #FFF
 }
 footer {
-	padding: 2em;
+	padding: 1em;
 	text-align: left;
 }
 .logo {
@@ -37,7 +36,7 @@ footer {
 #profilebox {
 	display: block;
 	float: left;
-	padding: 2em;
+	padding: 1em;
 }
 #profileboximg1 {
 	display: block;
@@ -63,9 +62,6 @@ footer {
 	display: block;
 	float: left;
 	font-size: 24px;
-	padding: 2em;
-	text-align: left;
-	clear: both;
 }
 #intro {
 	background:url(../images/peonies_background.jpg);
@@ -78,9 +74,6 @@ footer {
 #form {
 	display: block;
 	float: left;
-	clear: both;
-	text-align: left;
-	padding: 1em;
 }
 #productbox1 {
 	display: block;

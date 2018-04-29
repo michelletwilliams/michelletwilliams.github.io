@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+* { margin:0; padding:0; box-sizing:border-box; }
+body { 
+	font-family: Helvetica, Arial, sans-serif;
+}
+h1, {
+	color: LightCoral;
+	text-align: left;
+	font-size: 2em;
+	font-family: 'Playfair Display', serif;
+}
+h2, h3 {
+	color: LightCoral;
+	text-align: left;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.25em;
+}
+nav {
+	display: block;
+	float: right;
+	font-size: 1.5em;
+	padding: 1.25em;
+}
+footer {
+	padding: 1em;
+	text-align: left;
+}
+.logo {
+	font-family: Helvetica, Arial, sans-serif;
+	display: block;
+	float: left;
+	font-size: 24px;
+	padding: 1em;
+	text-align: left;
+}
+#profilebox {
+	display: block;
+	float: left;
+	padding: 1em;
+}
+#profileboximg1 {
+	display: block;
+	float: left;
+	background:url(../images/nikki_image.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
+	padding: 10px;
+}
+#profileboximg2 {
+	display: block;
+	float: left;
+	background:url(../images/michelle_image.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
+	padding: 10px;
+}
+#slogan {
+	display: block;
+	float: left;
+	font-size: 24px;
+}
+#intro {
+	background:url(../images/peonies_background.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	width: 1200px;
+	height: 800px;
+	padding: 2em
+}
+#form {
+	display: block;
+	float: left;
+}
+#productbox1 {
+	display: block;
+	float: left;
+	background:url(../images/floral_cake.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	width: 400px;
+	height: 344px;
+	margin: 10px;
+	padding: 1em;
+}
+#productbox2 {
+	display: block;
+	float: left;
+	background:url(../images/bouquet_flower_design.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
+	margin: 10px;
+	padding: 1em;
+}
+#productbox3 {
+	display: block;
+	float: left;
+	background:url(../images/party_planning.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	width: 400px;
+	height: 344px;
+	margin: 10px;
+	padding: 1em;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size;
+}

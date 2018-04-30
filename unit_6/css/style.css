@@ -79,38 +79,28 @@ footer {
 	float: left;
 	padding: 1em;
 }
-#productbox1 {
+#ProductBox {
 	display: block;
 	float: left;
+	width: 400px;
+	height: 344px;
+	margin: 10px;
+	padding: 1em;
+}
+#productbox1 {
 	background:url(../images/floral_cake.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
-	width: 400px;
-	height: 344px;
-	margin: 10px;
-	padding: 1em;
 }
 #productbox2 {
-	display: block;
-	float: left;
 	background:url(../images/bouquet_flower_design.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 400px;
-	height: 344px;
-	margin: 10px;
-	padding: 1em;
 }
 #productbox3 {
-	display: block;
-	float: left;
 	background:url(../images/party_planning.jpg);
 	background-repeat: no-repeat;
 	background-size:cover;
-	width: 400px;
-	height: 344px;
-	margin: 10px;
-	padding: 1em;
 }
 .clearfix:after {
 	visibility: hidden;

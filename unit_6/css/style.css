@@ -81,12 +81,18 @@ footer {
 }
 #productbox1 {
 	background:url(../images/floral_cake.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 #productbox2 {
 	background:url(../images/bouquet_flower_design.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 #productbox3 {
 	background:url(../images/party_planning.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 .clearfix:after {
 	visibility: hidden;

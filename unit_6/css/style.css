@@ -64,8 +64,7 @@ footer {
 	max-width: 75%; 
 	height: 90vh;
 	margin: 25%
-	padding: 1em
-	text-align: center; 
+	padding: 1em 
 }
 #form {
 	display: block;
@@ -76,7 +75,7 @@ footer {
 	display: block;
 	float: left;
 	width: 400px;
-	height: 8em;
+	height: 344px;
 	margin: 10px;
 	padding: 1em;
 }

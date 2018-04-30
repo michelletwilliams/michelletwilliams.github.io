@@ -4,7 +4,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	padding: 1em;
 }
-h1, {
+h1 {
 	color: LightCoral;
 	text-align: left;
 	font-size: 2em;
@@ -35,22 +35,14 @@ footer {
 	padding: 1em;
 	text-align: left;
 }
-#profilebox {
+.profilebox {
 	display: block;
 	float: left;
-	width: 400px;
-	height: 344px;
-	padding: 10px;
+	width: 50%;
+	padding:2em;
 }
-#profileboximg1 {
-	background:url(../images/nikki_image.jpg);
-	background-repeat: no-repeat;
-	background-size:cover;
-}
-#profileboximg2 {
-	background:url(../images/michelle_image.jpg);
-	background-repeat: no-repeat;
-	background-size:cover;
+.profilebox img {
+	width:100%;
 }
 #slogan {
 	display: block;
@@ -61,38 +53,14 @@ footer {
 	background:url(../images/peonies_background.jpg);
 	background-size:cover;
 	background-repeat:no-repeat;
-	max-width: 75%; 
 	height: 90vh;
-	margin: 25%
-	padding: 1em 
-}
-#form {
-	display: block;
-	float: left;
 	padding: 1em;
 }
-#ProductBox {
-	display: block;
+#productbox section {
+	width: 33.33%;
 	float: left;
-	width: 400px;
-	height: 344px;
-	margin: 10px;
 	padding: 1em;
-}
-#productbox1 {
-	background:url(../images/floral_cake.jpg);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-#productbox2 {
-	background:url(../images/bouquet_flower_design.jpg);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
-#productbox3 {
-	background:url(../images/party_planning.jpg);
-	background-repeat:no-repeat;
-	background-size:cover;
+	text-align: center;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -101,4 +69,8 @@ footer {
 	clear: both;
 	height: 0;
 	font-size;
+}
+.wrapper {
+	max-width:1200px;
+	margin:auto;
 }

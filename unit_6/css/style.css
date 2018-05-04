@@ -74,3 +74,12 @@ footer {
 	max-width:1200px;
 	margin:auto;
 }
+
+@media only screen and (max-width: 1200px) {
+#productbox section {
+width: 33.33%;
+float: left;
+padding: 1em;
+text-align: center;
+}
+	

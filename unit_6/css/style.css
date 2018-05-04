@@ -83,3 +83,12 @@ padding: 1em;
 text-align: center;
 }
 	
+@media only screen and (max-width: 1200px) {
+	#intro {
+	background:url(../images/peonies_background.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 1em;
+}
+

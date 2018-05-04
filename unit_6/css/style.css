@@ -103,6 +103,11 @@ footer {
 	float: none;
 	width: auto;
 }
+	@media only screen and (max-width: 1024px) {
+	#productbox section {
+	float: none;
+	width: auto;
+}
 	@media only screen and (max-width: 768px) {
 	#intro {
 	background:url(../images/peonies_background_768.jpg);
@@ -113,6 +118,11 @@ footer {
 }		
 	@media only screen and (max-width: 768px) {
 	.profilebox {
+	float: none;
+	width: auto;
+}
+	@media only screen and (max-width: 768px) {
+	#productbox section {
 	float: none;
 	width: auto;
 }
@@ -129,6 +139,11 @@ footer {
 	float: none;
 	width: auto;
 }		
+	@media only screen and (max-width: 480px) {
+	#productbox section {
+	float: none;
+	width: auto;
+}
 	@media only screen and (max-width: 320px) {
 	#intro {
 	background:url(../images/peonies_background_320.jpg);
@@ -139,6 +154,11 @@ footer {
 }
 	@media only screen and (max-width: 320px) {
 	.profilebox {
+	float: none;
+	width: auto;
+}
+	@media only screen and (max-width: 320px) {
+	#productbox section {
 	float: none;
 	width: auto;
 }

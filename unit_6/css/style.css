@@ -111,6 +111,11 @@ footer {
 	height: 90vh;
 	padding: 1em;
 }		
+	@media only screen and (max-width: 768px) {
+	.profilebox {
+	float: none;
+	width: auto;
+}
 	@media only screen and (max-width: 480px) {
 	#intro {
 	background:url(../images/peonies_background_480.jpg);
@@ -118,6 +123,11 @@ footer {
 	background-repeat:no-repeat;
 	height: 90vh;
 	padding: 1em;
+}
+	@media only screen and (max-width: 480px) {
+	.profilebox {
+	float: none;
+	width: auto;
 }		
 	@media only screen and (max-width: 320px) {
 	#intro {
@@ -127,7 +137,7 @@ footer {
 	height: 90vh;
 	padding: 1em;
 }
-	@media only screen and (max-width: 480px) {
+	@media only screen and (max-width: 320px) {
 	.profilebox {
 	float: none;
 	width: auto;

@@ -75,56 +75,50 @@ footer {
 	max-width:1200px;
 	margin:auto;
 }
-
-@media only screen and (max-width: 1200px) {
-#productbox section {
-width: 33.33%;
-float: left;
-padding: 1em;
-text-align: center;
-}
-	
-@media only screen and (max-width: 1200px) {
-#intro {
-background:url(../images/peonies_background_1200.jpg);
-background-size:cover;
-background-repeat:no-repeat;
-height: 90vh;
-padding: 1em;
-}
-	
-@media only screen and (max-width: 1024px) {
-#intro {
-background:url(../images/peonies_background_1024.jpg);
-background-size:cover;
-background-repeat:no-repeat;
-height: 90vh;
-padding: 1em;
-}
-
-@media only screen and (max-width: 768px) {
-#intro {
-background:url(../images/peonies_background_768.jpg);
-background-size:cover;
-background-repeat:no-repeat;
-height: 90vh;
-padding: 1em;
-}
-		
-@media only screen and (max-width: 480px) {
-#intro {
-background:url(../images/peonies_background_480.jpg);
-background-size:cover;
-background-repeat:no-repeat;
-height: 90vh;
-padding: 1em;
+	@media only screen and (max-width: 1200px) {
+	#productbox section {
+	width: 33.33%;
+	float: left;
+	padding: 1em;
+	text-align: center;
 }	
-	
-@media only screen and (max-width: 480px) {
-#intro {
-background:url(../images/peonies_background_320.jpg);
-background-size:cover;
-background-repeat:no-repeat;
-height: 90vh;
-padding: 1em;
+	@media only screen and (max-width: 1200px) {
+	#intro {
+	background:url(../images/peonies_background_1200.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 1em;
+}	
+	@media only screen and (max-width: 1024px) {
+	#intro {
+	background:url(../images/peonies_background_1024.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 1em;
+}
+	@media only screen and (max-width: 768px) {
+	#intro {
+	background:url(../images/peonies_background_768.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 1em;
+}		
+	@media only screen and (max-width: 480px) {
+	#intro {
+	background:url(../images/peonies_background_480.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 1em;
+}		
+	@media only screen and (max-width: 480px) {
+	#intro {
+	background:url(../images/peonies_background_320.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 90vh;
+	padding: 1em;
 }
